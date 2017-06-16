@@ -1,0 +1,443 @@
+Index:  1 
+Clustering Coefficient 
+[[1]]
+[1] 0.0073295464 0.0229548067 0.0008828772 0.0030817411 0.0014992254 0.0009328514 0.0006496643
+[8]           NA
+
+Density of Graph[[1]]
+[1] 0.06712433 0.21776233 0.20948617 0.23717949 0.18145161 0.71794872 0.70909091         NA
+
+Community Sizes[[1]]
+[1] 114 112  22  39  31  12  10   8
+
+Index:  2 
+Clustering Coefficient 
+[[1]]
+[1] 0.015716145 0.031952923 0.001147592          NA          NA          NA          NA
+[8]          NA          NA
+
+Density of Graph[[1]]
+[1] 0.07946793 0.14850473 0.25191147         NA         NA         NA         NA         NA
+[9]         NA
+
+Community Sizes[[1]]
+[1] 464 484  70   9   5   3   6   2   3
+
+Index:  3 
+Clustering Coefficient 
+[[1]]
+[1] 0.0300697158 0.0008810235 0.0665747338           NA 0.0011874665
+
+Density of Graph[[1]]
+[1] 0.1358602 0.3484848 0.3582766        NA 0.5636364
+
+Community Sizes[[1]]
+[1] 107  11  98   4  10
+
+Index:  4 
+Clustering Coefficient 
+[[1]]
+[1] 0.04690382 0.04298890 0.05398080
+
+Density of Graph[[1]]
+[1] 0.4874804 0.4345510 0.3580524
+
+Community Sizes[[1]]
+[1] 71 72 89
+
+Index:  5 
+Clustering Coefficient 
+[[1]]
+[1] 0.09837398 0.13194644
+
+Density of Graph[[1]]
+[1] 0.6193917 0.3503492
+
+Community Sizes[[1]]
+[1]  81 125
+
+Index:  6 
+Clustering Coefficient 
+[[1]]
+[1] 0.1332139 0.1547619
+
+Density of Graph[[1]]
+[1] 0.5207673 0.6050042
+
+Community Sizes[[1]]
+[1] 109 109
+
+Index:  7 
+Clustering Coefficient 
+[[1]]
+[1] 0.002897913 0.115989876 0.121272147
+
+Density of Graph[[1]]
+[1] 0.6583333 0.6518244 0.4406238
+
+Community Sizes[[1]]
+[1]  15  98 122
+
+Index:  8 
+Clustering Coefficient 
+[[1]]
+[1] 0.1787879 0.1055210
+
+Density of Graph[[1]]
+[1] 0.4833352 0.6491318
+
+Community Sizes[[1]]
+[1] 133  88
+
+Index:  9 
+Clustering Coefficient 
+[[1]]
+[1] 0.1034981 0.1641165
+
+Density of Graph[[1]]
+[1] 0.6577740 0.4336315
+
+Community Sizes[[1]]
+[1]  83 129
+
+Index:  10 
+Clustering Coefficient 
+[[1]]
+[1] 0.01085605 0.10224773 0.14170253
+
+Density of Graph[[1]]
+[1] 0.6984615 0.6437820 0.5867327
+
+Community Sizes[[1]]
+[1]  25  81 100
+
+Index:  11 
+Clustering Coefficient 
+[[1]]
+[1] 0.1743953 0.1019822
+
+Density of Graph[[1]]
+[1] 0.4928058 0.5899432
+
+Community Sizes[[1]]
+[1] 139  97
+
+Index:  12 
+Clustering Coefficient 
+[[1]]
+[1] 0.0214598577 0.0032148284 0.0178778940 0.0004341774           NA           NA
+
+Density of Graph[[1]]
+[1] 0.09741182 0.07353049 0.21831508 0.71578947         NA         NA
+
+Community Sizes[[1]]
+[1] 371 165 226  19   6   6
+
+Index:  13 
+Clustering Coefficient 
+[[1]]
+[1]        NA 0.1056047 0.1379351
+
+Density of Graph[[1]]
+[1]        NA 0.5316832 0.4995015
+
+Community Sizes[[1]]
+[1]   9 100 118
+
+Index:  14 
+Clustering Coefficient 
+[[1]]
+[1] 0.2029457 0.1064972
+
+Density of Graph[[1]]
+[1] 0.6071323 0.5647858
+
+Community Sizes[[1]]
+[1] 116  87
+
+Index:  15 
+Clustering Coefficient 
+[[1]]
+[1]        NA 0.1512698 0.1077015
+
+Density of Graph[[1]]
+[1]        NA 0.5586137 0.4825809
+
+Community Sizes[[1]]
+[1]   4 108  98
+
+Index:  16 
+Clustering Coefficient 
+[[1]]
+[1] 0.001906992 0.168417531 0.078788893
+
+Density of Graph[[1]]
+[1] 0.6263736 0.5325294 0.5057990
+
+Community Sizes[[1]]
+[1]  13 137  96
+
+Index:  17 
+Clustering Coefficient 
+[[1]]
+[1]        NA 0.2086567 0.0800995
+
+Density of Graph[[1]]
+[1]        NA 0.5682157 0.5502392
+
+Community Sizes[[1]]
+[1]   5 121  76
+
+Index:  18 
+Clustering Coefficient 
+[[1]]
+[1] 0.05623852 0.04936043 0.09760045
+
+Density of Graph[[1]]
+[1] 0.6511712 0.6205008 0.5136773
+
+Community Sizes[[1]]
+[1]  74  71 110
+
+Index:  19 
+Clustering Coefficient 
+[[1]]
+[1] 0.056893917 0.037068526 0.003569484 0.005076677
+
+Density of Graph[[1]]
+[1] 0.5889798 0.2133455 0.1090597 0.5498478
+
+Community Sizes[[1]]
+[1] 234 314 136  72
+
+Index:  20 
+Clustering Coefficient 
+[[1]]
+[1] 0.1893508 0.1691108
+
+Density of Graph[[1]]
+[1] 0.8264856 0.5962114
+
+Community Sizes[[1]]
+[1] 106 118
+
+Index:  21 
+Clustering Coefficient 
+[[1]]
+[1] 0.040078475 0.008728379 0.295123318
+
+Density of Graph[[1]]
+[1] 0.4144928 0.7898551 0.8271799
+
+Community Sizes[[1]]
+[1]  69  23 133
+
+Index:  22 
+Clustering Coefficient 
+[[1]]
+[1] 0.2269424 0.1680730
+
+Density of Graph[[1]]
+[1] 0.7761468 0.7557018
+
+Community Sizes[[1]]
+[1] 109  95
+
+Index:  23 
+Clustering Coefficient 
+[[1]]
+[1]         NA 0.21630799 0.04505022
+
+Density of Graph[[1]]
+[1]        NA 0.6230028 0.2768146
+
+Community Sizes[[1]]
+[1]   4 120  82
+
+Index:  24 
+Clustering Coefficient 
+[[1]]
+[1] 0.01183232 0.16116102 0.15092244
+
+Density of Graph[[1]]
+[1] 0.8166667 0.8332085 0.7304815
+
+Community Sizes[[1]]
+[1] 24 89 92
+
+Index:  25 
+Clustering Coefficient 
+[[1]]
+[1] 0.001999707 0.189240599 0.170170219
+
+Density of Graph[[1]]
+[1] 0.7454545 0.7998351 0.7493557
+
+Community Sizes[[1]]
+[1] 10 98 96
+
+Index:  26 
+Clustering Coefficient 
+[[1]]
+[1] 0.0987248 0.2656520
+
+Density of Graph[[1]]
+[1] 0.5049442 0.8200635
+
+Community Sizes[[1]]
+[1]  97 125
+
+Index:  27 
+Clustering Coefficient 
+[[1]]
+[1] 0.176304397 0.144269765 0.008430166
+
+Density of Graph[[1]]
+[1] 0.7223674 0.8270637 0.8008658
+
+Community Sizes[[1]]
+[1] 103  87  21
+
+Index:  28 
+Clustering Coefficient 
+[[1]]
+[1] 0.3114299 0.1076040
+
+Density of Graph[[1]]
+[1] 0.8138983 0.6944444
+
+Community Sizes[[1]]
+[1] 126  80
+
+Index:  29 
+Clustering Coefficient 
+[[1]]
+[1] 0.2474087 0.1362975
+
+Density of Graph[[1]]
+[1] 0.8189722 0.6372807
+
+Community Sizes[[1]]
+[1] 113  95
+
+Index:  30 
+Clustering Coefficient 
+[[1]]
+[1] 0.1359912 0.2123436
+
+Density of Graph[[1]]
+[1] 0.5773624 0.7676098
+
+Community Sizes[[1]]
+[1] 107 116
+
+Index:  31 
+Clustering Coefficient 
+[[1]]
+[1] 0.16592040 0.01164179 0.14587065
+
+Density of Graph[[1]]
+[1] 0.8144078 0.7800000 0.7487232
+
+Community Sizes[[1]]
+[1] 90 24 88
+
+Index:  32 
+Clustering Coefficient 
+[[1]]
+[1]         NA 0.08367265 0.24668941
+
+Density of Graph[[1]]
+[1]        NA 0.4608081 0.8145591
+
+Community Sizes[[1]]
+[1]   8  99 128
+
+Index:  33 
+Clustering Coefficient 
+[[1]]
+[1] 0.2866927 0.1019078
+
+Density of Graph[[1]]
+[1] 0.7593371 0.6559878
+
+Community Sizes[[1]]
+[1] 178 114
+
+Index:  34 
+Clustering Coefficient 
+[[1]]
+[1] 0.1295905 0.2602129
+
+Density of Graph[[1]]
+[1] 0.6600573 0.8037085
+
+Community Sizes[[1]]
+[1]  91 117
+
+Index:  35 
+Clustering Coefficient 
+[[1]]
+[1] 0.004088469 0.197083887 0.156642530
+
+Density of Graph[[1]]
+[1] 0.7904762 0.7767424 0.8120531
+
+Community Sizes[[1]]
+[1]  14 101  88
+
+Index:  36 
+Clustering Coefficient 
+[[1]]
+[1] 0.1731343 0.2270647
+
+Density of Graph[[1]]
+[1] 0.7321692 0.8201258
+
+Community Sizes[[1]]
+[1]  97 105
+
+Index:  37 
+Clustering Coefficient 
+[[1]]
+[1] 0.2240719 0.1259780
+
+Density of Graph[[1]]
+[1] 0.7781182 0.5657387
+
+Community Sizes[[1]]
+[1] 157 138
+
+Index:  38 
+Clustering Coefficient 
+[[1]]
+[1] 0.003084577 0.148159204 0.182388060
+
+Density of Graph[[1]]
+[1] 0.7948718 0.6530702 0.8039474
+
+Community Sizes[[1]]
+[1] 12 95 95
+
+Index:  39 
+Clustering Coefficient 
+[[1]]
+[1] 0.1158013 0.2660757
+
+Density of Graph[[1]]
+[1] 0.5771388 0.8359859
+
+Community Sizes[[1]]
+[1]  92 116
+
+Index:  40 
+Clustering Coefficient 
+[[1]]
+[1] 0.0006696533 0.0085581694 0.0160917693 0.0012924309 0.0008571563 0.0009241216 0.0040112234
+[8]           NA
+
+Density of Graph[[1]]
+[1] 0.4761905 0.1351952 0.1105539 0.2137320 0.6736842 0.1769231 0.2047163        NA
+
+Community Sizes[[1]]
+[1]  20 137 208  42  19  39  76   7
